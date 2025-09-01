@@ -1,2 +1,10 @@
 # Python
-Desde o ínicio até IA
+
+
+## Python Fundamentos
+
+## Python Avançado
+
+## Python Analise de Dados e ML
+
+## Python deep learning
